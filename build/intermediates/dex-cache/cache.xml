@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_7a636183efb71ca3542a558aa6bd42305ed4af07.jar" />
+    </item>
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_9c44da9779063c216089b7f4f92982c995fd5e5c.jar" />
+    </item>
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_f52fd2eed95f10b4f44337917e76f65ac38f9812.jar" />
+    </item>
+    <item
+        jar="D:\androidSDK\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5e7a8e163bd0720a3dba0b6bfb5368dbf36236db.jar" />
+    </item>
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_785e1795e943a3f3e2c13b08194974c10b25a54f.jar" />
+    </item>
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\CircleProgressBar\circleprogressbar\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="78e0fe3750e14fdd5fe759a57657c71b48d734f7">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\CircleProgressBar-circleprogressbar-unspecified_964f616d4963f4aa19f3dce3e4a6c5d6c19e0e51.jar" />
+    </item>
+    <item
+        jar="D:\StudioProject\CircleProgressBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\StudioProject\CircleProgressBar\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_517865d3c0ad3e2161dbedf08cdd2720fe08f5ce.jar" />
+    </item>
+
+</items>
